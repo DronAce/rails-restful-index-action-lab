@@ -32,7 +32,7 @@ be found in `spec/features`. Both tests should be passing to complete the lab.
 
 - Create an `index.html.erb` view file and render it from your `Students#index` action.  The `index.html.erb` file should be placed within a `views/students` folder.  
 
-- In your view, iterate over the list of students returned from the index action in the controller and display the appropriate information. 
+- In your view, iterate over the list of students returned from the index action in the controller and display the appropriate information.
 
 ## Resources
 
